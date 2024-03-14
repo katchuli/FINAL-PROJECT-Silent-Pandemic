@@ -1,0 +1,105 @@
+Pathogen/Antibiotic,Year,Country,Groups,AMR(%),Meat(kg/pers)(2002),Meat(kg/pers)(2009),Meat(kg/pers)(2020)
+Escherichia coli|Third-generation cephalosporins,2002,Austria,2,14.29,94.1,102.0,87.23
+Escherichia coli|Fluoroquinolones,2002,Belgium,6,15.14,86.1,76.9,65.78
+Escherichia coli|Third-generation cephalosporins,2002,Bulgaria,1,28.57,69.4,53.0,58.32
+Escherichia coli|Aminoglycosides,2002,Croatia,1,23.81,49.9,66.3,75.3
+Escherichia coli|Aminoglycosides,2002,Estonia,6,16.67,67.4,59.6,63.64
+Escherichia coli|Fluoroquinolones,2002,Finland,4,7.83,67.4,74.8,76.7
+Escherichia coli|Fluoroquinolones,2002,France,6,10.05,101.1,86.7,83.05
+Escherichia coli|Third-generation cephalosporins,2002,Germany,2,20.0,82.1,88.1,87.79
+Escherichia coli|Fluoroquinolones,2002,Hungary,2,25.0,100.7,76.0,79.73
+Escherichia coli|Fluoroquinolones,2002,Iceland,3,4.17,84.8,86.2,91.02
+Escherichia coli|Third-generation cephalosporins,2002,Ireland,1,12.5,106.3,87.9,76.85
+Escherichia coli|Fluoroquinolones,2002,Italy,2,25.0,90.4,90.7,80.96
+Escherichia coli|Fluoroquinolones,2002,Luxembourg,4,7.78,141.7,107.9,80.08
+Escherichia coli|Third-generation cephalosporins,2002,Malta,1,25.0,86.9,84.5,82.06
+Escherichia coli|Fluoroquinolones,2002,Netherlands,3,7.91,89.3,85.5,75.82
+Escherichia coli|Carbapenems,2002,Norway,2,14.29,61.7,66.0,67.47
+Escherichia coli|Aminoglycosides,2002,Poland,1,25.0,78.1,76.9,88.71
+Escherichia coli|Fluoroquinolones,2002,Portugal,6,27.13,91.1,93.4,94.07
+Escherichia coli|Fluoroquinolones,2002,Romania,2,100.0,54.5,64.7,63.92
+Escherichia coli|Fluoroquinolones,2002,Slovakia,4,15.38,67.4,60.4,59.35
+Escherichia coli|Fluoroquinolones,2002,Slovenia,3,15.6,88.0,88.3,76.4
+Escherichia coli|Fluoroquinolones,2002,Spain,6,22.32,118.6,97.0,100.26
+Escherichia coli|Fluoroquinolones,2002,Sweden,3,7.01,76.1,80.2,77.07
+Escherichia coli|Fluoroquinolones,2002,United Kingdom,6,9.06,79.6,84.2,79.9
+Escherichia coli|Fluoroquinolones,2009,Austria,6,24.18,94.1,102.0,87.23
+Escherichia coli|Third-generation cephalosporins,2009,Belgium,2,50.0,86.1,76.9,65.78
+Klebsiella pneumoniae|Third-generation cephalosporins,2009,Bulgaria,5,75.0,69.4,53.0,58.32
+Escherichia coli|Fluoroquinolones,2009,Cyprus,4,52.94,131.3,78.1,72.83
+Klebsiella pneumoniae|Fluoroquinolones,2009,Denmark,3,17.18,145.9,95.2,70.83
+Klebsiella pneumoniae|Fluoroquinolones,2009,Estonia,4,27.59,67.4,59.6,63.64
+Escherichia coli|Fluoroquinolones,2009,Finland,6,12.61,67.4,74.8,76.7
+Klebsiella pneumoniae|Fluoroquinolones,2009,France,1,46.88,101.1,86.7,83.05
+Escherichia coli|Fluoroquinolones,2009,Germany,6,28.28,82.1,88.1,87.79
+Klebsiella pneumoniae|Third-generation cephalosporins,2009,Hungary,1,58.06,100.7,76.0,79.73
+Escherichia coli|Aminoglycosides,2009,Iceland,1,33.33,84.8,86.2,91.02
+Klebsiella pneumoniae|Aminoglycosides,2009,Ireland,1,36.84,106.3,87.9,76.85
+Klebsiella pneumoniae|Third-generation cephalosporins,2009,Italy,2,66.67,90.4,90.7,80.96
+Klebsiella pneumoniae|Aminoglycosides,2009,Latvia,1,90.0,45.7,61.5,68.73
+Klebsiella pneumoniae|Third-generation cephalosporins,2009,Lithuania,1,85.71,49.5,78.2,81.28
+Klebsiella pneumoniae|Third-generation cephalosporins,2009,Luxembourg,4,31.25,141.7,107.9,80.08
+Escherichia coli|Fluoroquinolones,2009,Malta,6,37.5,86.9,84.5,82.06
+Escherichia coli|Fluoroquinolones,2009,Netherlands,2,27.27,89.3,85.5,75.82
+Klebsiella pneumoniae|Aminoglycosides,2009,Norway,2,25.0,61.7,66.0,67.47
+Klebsiella pneumoniae|Third-generation cephalosporins,2009,Poland,4,54.72,78.1,76.9,88.71
+Klebsiella pneumoniae|Third-generation cephalosporins,2009,Portugal,1,47.06,91.1,93.4,94.07
+Escherichia coli|Third-generation cephalosporins,2009,Romania,2,100.0,54.5,64.7,63.92
+Klebsiella pneumoniae|Third-generation cephalosporins,2009,Slovenia,3,32.84,88.0,88.3,76.4
+Escherichia coli|Fluoroquinolones,2009,Spain,6,35.64,118.6,97.0,100.26
+Escherichia coli|Fluoroquinolones,2009,United Kingdom,6,20.25,79.6,84.2,79.9
+Escherichia coli|Fluoroquinolones,2017,Austria,6,24.82,94.1,102.0,87.23
+Escherichia coli|Fluoroquinolones,2017,Belgium,6,27.75,86.1,76.9,65.78
+Klebsiella pneumoniae|Third-generation cephalosporins,2017,Bulgaria,2,100.0,69.4,53.0,58.32
+Klebsiella pneumoniae|Third-generation cephalosporins,2017,Croatia,1,63.64,49.9,66.3,75.3
+Klebsiella pneumoniae|Third-generation cephalosporins,2017,Cyprus,4,53.85,131.3,78.1,72.83
+Escherichia coli|Fluoroquinolones,2017,Denmark,6,16.33,145.9,95.2,70.83
+Klebsiella pneumoniae|Third-generation cephalosporins,2017,Estonia,1,60.0,67.4,59.6,63.64
+Klebsiella pneumoniae|Fluoroquinolones,2017,Finland,2,50.0,67.4,74.8,76.7
+Klebsiella pneumoniae|Third-generation cephalosporins,2017,France,2,38.89,101.1,86.7,83.05
+Klebsiella pneumoniae|Third-generation cephalosporins,2017,Germany,2,80.0,82.1,88.1,87.79
+Klebsiella pneumoniae|Fluoroquinolones,2017,Hungary,3,45.0,100.7,76.0,79.73
+Escherichia coli|Aminoglycosides,2017,Iceland,2,33.33,84.8,86.2,91.02
+Klebsiella pneumoniae|Third-generation cephalosporins,2017,Ireland,1,30.0,106.3,87.9,76.85
+Klebsiella pneumoniae|Fluoroquinolones,2017,Italy,3,59.59,90.4,90.7,80.96
+Klebsiella pneumoniae|Third-generation cephalosporins,2017,Latvia,1,66.67,45.7,61.5,68.73
+Klebsiella pneumoniae|Third-generation cephalosporins,2017,Lithuania,2,75.0,49.5,78.2,81.28
+Escherichia coli|Third-generation cephalosporins,2017,Luxembourg,2,50.0,141.7,107.9,80.08
+Klebsiella pneumoniae|Third-generation cephalosporins,2017,Malta,1,100.0,86.9,84.5,82.06
+Escherichia coli|Fluoroquinolones,2017,Netherlands,2,30.77,89.3,85.5,75.82
+Klebsiella pneumoniae|Third-generation cephalosporins,2017,Norway,2,100.0,61.7,66.0,67.47
+Klebsiella pneumoniae|Third-generation cephalosporins,2017,Poland,2,75.0,78.1,76.9,88.71
+Klebsiella pneumoniae|Third-generation cephalosporins,2017,Portugal,2,54.55,91.1,93.4,94.07
+Klebsiella pneumoniae|Third-generation cephalosporins,2017,Romania,2,100.0,54.5,64.7,63.92
+Klebsiella pneumoniae|Third-generation cephalosporins,2017,Slovakia,2,85.71,67.4,60.4,59.35
+Escherichia coli|Fluoroquinolones,2017,Slovenia,2,60.0,88.0,88.3,76.4
+Klebsiella pneumoniae|Third-generation cephalosporins,2017,Spain,2,60.0,118.6,97.0,100.26
+Klebsiella pneumoniae|Third-generation cephalosporins,2017,Sweden,2,50.0,76.1,80.2,77.07
+Escherichia coli|Fluoroquinolones,2017,United Kingdom,6,20.03,79.6,84.2,79.9
+Klebsiella pneumoniae|Fluoroquinolones,2020,Austria,2,75.0,94.1,102.0,87.23
+Klebsiella pneumoniae|Third-generation cephalosporins,2020,Belgium,2,66.67,86.1,76.9,65.78
+Klebsiella pneumoniae|Third-generation cephalosporins,2020,Bulgaria,3,83.51,69.4,53.0,58.32
+Klebsiella pneumoniae|Third-generation cephalosporins,2020,Croatia,2,100.0,49.9,66.3,75.3
+Klebsiella pneumoniae|Third-generation cephalosporins,2020,Cyprus,2,100.0,131.3,78.1,72.83
+Klebsiella pneumoniae|Third-generation cephalosporins,2020,Denmark,1,25.0,145.9,95.2,70.83
+Escherichia coli|Third-generation cephalosporins,2020,Estonia,2,25.0,67.4,59.6,63.64
+Klebsiella pneumoniae|Aminoglycosides,2020,Finland,2,50.0,67.4,74.8,76.7
+Klebsiella pneumoniae|Fluoroquinolones,2020,France,4,28.92,101.1,86.7,83.05
+Escherichia coli|Fluoroquinolones,2020,Germany,6,18.04,82.1,88.1,87.79
+Klebsiella pneumoniae|Fluoroquinolones,2020,Hungary,2,83.33,100.7,76.0,79.73
+Escherichia coli|Aminoglycosides,2020,Iceland,1,25.0,84.8,86.2,91.02
+Klebsiella pneumoniae|Third-generation cephalosporins,2020,Ireland,1,26.32,106.3,87.9,76.85
+Klebsiella pneumoniae|Third-generation cephalosporins,2020,Italy,2,58.56,90.4,90.7,80.96
+Klebsiella pneumoniae|Third-generation cephalosporins,2020,Latvia,2,100.0,45.7,61.5,68.73
+Klebsiella pneumoniae|Fluoroquinolones,2020,Lithuania,4,49.15,49.5,78.2,81.28
+Klebsiella pneumoniae|Fluoroquinolones,2020,Luxembourg,6,38.46,141.7,107.9,80.08
+Klebsiella pneumoniae|Fluoroquinolones,2020,Malta,2,100.0,86.9,84.5,82.06
+Klebsiella pneumoniae|Fluoroquinolones,2020,Netherlands,2,50.0,89.3,85.5,75.82
+Klebsiella pneumoniae|Third-generation cephalosporins,2020,Norway,1,50.0,61.7,66.0,67.47
+Klebsiella pneumoniae|Fluoroquinolones,2020,Poland,6,70.1,78.1,76.9,88.71
+Klebsiella pneumoniae|Third-generation cephalosporins,2020,Portugal,6,52.04,91.1,93.4,94.07
+Klebsiella pneumoniae|Third-generation cephalosporins,2020,Romania,1,78.57,54.5,64.7,63.92
+Klebsiella pneumoniae|Third-generation cephalosporins,2020,Slovakia,1,66.67,67.4,60.4,59.35
+Klebsiella pneumoniae|Fluoroquinolones,2020,Slovenia,2,50.0,88.0,88.3,76.4
+Escherichia coli|Fluoroquinolones,2020,Spain,6,30.87,118.6,97.0,100.26
+Klebsiella pneumoniae|Third-generation cephalosporins,2020,Sweden,1,50.0,76.1,80.2,77.07
